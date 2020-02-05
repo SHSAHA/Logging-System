@@ -43,7 +43,7 @@ const EditLogModal = ({ current, updateLog }) => {
   return (
     <div id='edit-log-modal' className='modal' style={modalStyle}>
       <div className='modal-content'>
-        <h4>Enter System Log</h4>
+        <h4>Enter System Logs</h4>
         <div className='row'>
           <div className='input-field'>
             <input
